@@ -17,7 +17,7 @@
 }
 
 @media (max-height: 720px) {
-  .container section {
-    padding: 3rem 0;
+  .container section div {
+    margin-top: 1.5rem;
   }
 }

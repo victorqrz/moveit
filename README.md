@@ -28,12 +28,8 @@ In the root directory type the following command:
 yarn dev
 ```
 ## Screenshots
-<p align="center">  
-  <img  align="left" src="./screenshots/img0.png"/>
-  <img  align="center" src="./screenshots/img1.png"/>
-  <img  align="right" src="./screenshots/img2.png"/>
-</p>
-<p align="center">
-  <img  align="left" src="./screenshots/img3.png"/>
-  <img  align="center" src="./screenshots/img4.png"/>
-</p>
+<img src="./screenshots/img0.png"/>
+<img src="./screenshots/img1.png"/>
+<img src="./screenshots/img2.png"/>
+<img src="./screenshots/img3.png"/>
+<img src="./screenshots/img4.png"/>

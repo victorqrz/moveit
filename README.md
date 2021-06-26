@@ -1,6 +1,6 @@
 <h1 align="center">moveit</h1>
 
-> Countdown app to take breaks at work and complete challenges exercising eyes, head and arms
+> Countdown app to take breaks at work and complete challenges exercising eyes, neck and arms
 
 ### 🏠 [Homepage](https://github.com/victorqrz/moveit)
 
